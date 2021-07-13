@@ -6,21 +6,22 @@
 
 <span align="center">
   
-  ## :wave: Hola, I’m Susuassey Wonder <br> 
-  ### A Full Stack Web Developer.
+  ## :wave: Hola, I’m Susuassey Wonder (Full Stack Web Developer)
   
 </span>
 
 
 ## About
 Am a Passionate Developer who loves to Research. I believe if one knows a language well, learning tools made with it is much easier.
-I love to learn interesting stuffs. Web Development is my main focus and Mobile Development is a hobby. I love to reasearch about complicated
+I love to learn interesting stuffs. Web Development is my main focus and Mobile Development is a hobby. I love to research about complicated
 topics to understand how they work. Not the usual Dev who loves Project-Based Learning (but have got some Projects in Session). At leisure, am
-reading codebases to understand how systems are built.
+reading codebases to understand how systems are built. Apart from my Tech Stacks, i use any other tools a regular Dev uses.
 
-### Current Aim:
+### Current Research:
 - Writing Clean and Maintainable Code.
 - Structuring Application in Clean Architecture.
+- Test Driven Development.
+- Building Complex Systems.
 
 
 ## Skills
@@ -68,31 +69,16 @@ reading codebases to understand how systems are built.
 ## Reach me
 <div>
   <a href="https://twitter.com/Mastermind_Prog?s=09">
-  <img height="60px" alt="Susuassey Wonder - Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img height="55px" alt="Susuassey Wonder - Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/susuassey-wonder-096a17178">
-  <img height="60px" alt="Susuassey Wonder - Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img height="55px" alt="Susuassey Wonder - Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://m.facebook.com/wonder.susuassey?fref=nf">
-  <img height="60px" alt="Susuassey Wonder - Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img height="55px" alt="Susuassey Wonder - Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
 <a href="https://www.instagram.com/susuassey_wonder/">
-  <img height="60px" alt="Susuassey Wonder Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img height="55px" alt="Susuassey Wonder Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
 </div>
-
-<!--
-**Marvrog/Marvrog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
