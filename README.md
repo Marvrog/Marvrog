@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/31560385/125456984-bcf140e5-782f-486a-a539-2d4935b8ca00.jpg" height="350px" />
 <img src="https://user-images.githubusercontent.com/31560385/125455812-b2ff944e-776a-4b86-b44e-7c52e841834d.jpg" height="350px" />
-<img src="https://user-images.githubusercontent.com/31560385/125456989-b9159ff6-9f94-4015-a763-02f13c5f7f60.jpg" height="350px" />
+<img src="https://user-images.githubusercontent.com/31560385/125456989-b9159ff6-9f94-4015-a763-02f13c5f7f60.jpg" height="350px" width="290px"/>
 <!--   ![my_image_2](https://user-images.githubusercontent.com/31560385/125455786-9638910d-7630-459f-b53e-2bc6c309568c.jpg) -->
 <!-- ![my_image_1](https://user-images.githubusercontent.com/31560385/125455812-b2ff944e-776a-4b86-b44e-7c52e841834d.jpg) -->
   
@@ -12,11 +12,17 @@
 
 </div>
 
-## Hola, I’m Susuassey Wonder.
-### A Full Stack Web Developer.
+<span align="center">
+  
+  ## :wave: Hola, I’m Susuassey Wonder <br> 
+  A Full Stack Web Developer.
+  
+</span>
 
 
-### Skills
+## Bio
+
+## Skills
 
 <div>
   <p><b>Programming Languages</b></p>
@@ -31,11 +37,11 @@
 <br>
 </div>
 
-
+## GitHub Stat
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marvrog&theme=neon-palenight)](https://git.io/streak-stats)
 
 
-#### Reach me
+## Reach me
 <div>
   <a href="https://twitter.com/Mastermind_Prog?s=09">
   <img height="60" alt="Susuassey Wonder's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
