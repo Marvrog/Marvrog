@@ -15,7 +15,7 @@
 Am a Passionate Developer who loves to Research. I believe if one knows a language well, learning tools made with it is much easier.
 I love to learn interesting stuffs. Web Development is my main focus and Mobile Development is a hobby. I love to research about complicated
 topics to understand how they work. Not the usual Dev who loves Project-Based Learning (but have got some Projects in Session). At leisure, am
-reading codebases to understand how systems are built. Apart from my Tech Stacks, i use any other tools a regular Dev uses.
+reading codebases to understand how systems are built. Apart from my Tech Stacks, i use any other tools a regular Developer uses.
 
 ### Current Research:
 - Writing Clean and Maintainable Code.
@@ -61,9 +61,18 @@ reading codebases to understand how systems are built. Apart from my Tech Stacks
 <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://user-images.githubusercontent.com/31560385/125525761-445a5c6e-6785-4834-85f6-510c949f7557.png" alt="typescript" width="40" height="40" title="Typescript"/></a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/> </a>
 
-## GitHub Stat
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marvrog&theme=neon-palenight)](https://git.io/streak-stats)
+## GitHub Stat 📈
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvrog&layout=compact"> -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marvrog&theme=neon-palenight)](https://github.com/Marvrog)
+
+
+## GitHub Public Contribution
+[![Susuassey Wonder's github activity graph](https://activity-graph.herokuapp.com/graph?username=Marvrog&theme=rogue&area_color=FF0000FF&area=true&&line=f8dc3b&&point=eeeeee&&color=ffffff&&custom_title=Susuassey%20Wonder%20Prog\'s%20Public%20Contribution&&bg_color=212237)](https://github.com/Marvrog)
+
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marvrog&theme=neon-palenight" />
+</p> -->
 
 
 ## Reach me
