@@ -80,7 +80,7 @@ reading codebases to understand how systems are built. Apart from my Tech Stacks
   <a href="https://twitter.com/Mastermind_Prog?s=09">
   <img height="55px" alt="Susuassey Wonder - Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/susuassey-wonder-096a17178">
+<a href="https://linkedin.com/in/susuassey-wonder">
   <img height="55px" alt="Susuassey Wonder - Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://m.facebook.com/wonder.susuassey?fref=nf">
