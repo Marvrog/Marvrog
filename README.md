@@ -1,8 +1,4 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/31560385/125456984-bcf140e5-782f-486a-a539-2d4935b8ca00.jpg" height="350px" />
-<img src="https://user-images.githubusercontent.com/31560385/125456989-b9159ff6-9f94-4015-a763-02f13c5f7f60.jpg" height="350px" width="290px"/>
-</div>
-
 <span>
   
   ## Susuassey Wonder
